@@ -2,6 +2,8 @@ body{
     margin: 0%;
     padding:  10%;
     font-family: 'Orbitron', sans-serif;
+    background-image: url(img/agujero-negro-tierra-luna-2540119.webp);
+    background-size: 100% 100%;
 }
 
 
@@ -14,12 +16,21 @@ table{
     width: 100%;
 
 }
+tr{
+    height: 60px;
+}
 .table2{
     height: 1000px;
 }
+hr{
+    background-color: black;
+    color: blue;
+    height: 10px;
+
+}
 /* 
 th {
-    background-color: aqua;
+    background-color: aqua; 
 }
 td{
     background-color: bisque;
