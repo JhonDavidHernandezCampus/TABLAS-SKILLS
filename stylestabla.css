@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding:  10%;
+}
+
+
+table,tr,th,td {
+    border: 1px solid black ;
+    align-items: center;
+}
+table{
+    width: 100%;
+}
+/* 
+th {
+    background-color: aqua;
+}
+td{
+    background-color: bisque;
+}
+.th{
+    
+} */
