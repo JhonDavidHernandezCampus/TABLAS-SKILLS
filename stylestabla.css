@@ -1,15 +1,21 @@
 body{
     margin: 0%;
     padding:  10%;
+    font-family: 'Orbitron', sans-serif;
 }
 
 
 table,tr,th,td {
     border: 1px solid black ;
     align-items: center;
+    border-radius: 4px;
 }
 table{
     width: 100%;
+
+}
+.table2{
+    height: 1000px;
 }
 /* 
 th {
